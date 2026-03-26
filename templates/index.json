@@ -9,951 +9,11 @@
  */
 {
   "sections": {
-    "ss_slideshow_7_Ka7r3A": {
-      "type": "ss-slideshow-7",
-      "blocks": {
-        "slide_wWkie9": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/banniere-pc.png",
-            "image_mobile": "shopify://shop_images/banniere-mobile.png",
-            "heading": "<h1>ELEVATE YOUR STYLE INSTANTLY </h1>",
-            "text": "<p>New arrivals : Autumn - Winter 2025</p>",
-            "button": "See our collection",
-            "button_url": "shopify://collections",
-            "first_image_url": "",
-            "second_image_url": "",
-            "third_image_url": ""
-          }
-        },
-        "slide_UWUt8g": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/pc1.png",
-            "image_mobile": "shopify://shop_images/pc1_1.png",
-            "heading": "<h1>ELEVATE YOUR STYLE INSTANTLY</h1>",
-            "text": "<p>New arrivals : Autumn - Winter 2025</p>",
-            "button": "See our collection",
-            "button_url": "shopify://collections",
-            "first_image_url": "",
-            "second_image_url": "",
-            "third_image_url": ""
-          }
-        }
-      },
-      "block_order": [
-        "slide_wWkie9",
-        "slide_UWUt8g"
-      ],
-      "custom_css": [
-        "@media only screen and (max-width: 767px) {.slideshow-heading-template--27184821305684__ss_slideshow_7_Ka7r3A {margin-top: -20px; margin-bottom: 90px; } .slideshow-button-template--27184821305684__ss_slideshow_7_Ka7r3A {margin-top: 170px; }}"
-      ],
-      "name": "SS - Slideshow #7",
-      "settings": {
-        "slideshow_height": "fixed_height",
-        "slideshow_fixed_height": 750,
-        "slideshow_fixed_height_mobile": 660,
-        "autoplay": true,
-        "autoplay_delay": 6,
-        "overlay": 0.1,
-        "content_padding_vertical": 64,
-        "content_padding_vertical_mobile": 100,
-        "content_padding_horizontal": 110,
-        "content_padding_horizontal_mobile": 8,
-        "content_horizontal_position_mobile": "center",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 54,
-        "heading_size_mobile": 24,
-        "heading_height": 130,
-        "text_custom": true,
-        "text_font": "josefin_sans_n6",
-        "text_size": 25,
-        "text_size_mobile": 18,
-        "text_height": 150,
-        "text_mt": 26,
-        "text_mt_mobile": 100,
-        "button_custom": true,
-        "button_font": "josefin_sans_n7",
-        "button_size": 20,
-        "button_size_mobile": 15,
-        "button_height": 100,
-        "button_mt": 60,
-        "button_mt_mobile": 100,
-        "button_padding_vertical": 16,
-        "button_padding_vertical_mobile": 16,
-        "button_padding_horizontal": 32,
-        "button_padding_horizontal_mobile": 22,
-        "button_radius": 4,
-        "button_border_thickness": 0,
-        "button_style": "link",
-        "image_radius": 12,
-        "image_border_thickness": 0,
-        "image_ratio": "portrait",
-        "image_ratio_mobile": "portrait",
-        "image_hide_mobile": true,
-        "image_hide_desktop": true,
-        "arrow_size": 48,
-        "arrow_size_mobile": 48,
-        "arrow_icon_size": 9,
-        "arrow_icon_size_mobile": 9,
-        "arrow_border_thickness": 0,
-        "arrow_radius": 100,
-        "arrow_hover_effect": "color",
-        "arrow_show_desktop": true,
-        "arrow_show_mobile": true,
-        "dots_size": 14,
-        "dots_size_mobile": 14,
-        "dots_show_desktop": true,
-        "dots_show_mobile": true,
-        "pagination_custom": false,
-        "pagination_font": "josefin_sans_n4",
-        "pagination_size": 16,
-        "pagination_size_mobile": 16,
-        "pagination_height": 130,
-        "pagination_show_desktop": false,
-        "pagination_show_mobile": false,
-        "heading_color": "#ffffff",
-        "text_color": "#ffffff",
-        "image_border_color": "#000000",
-        "button_color": "#ffffff",
-        "button_hover_color": "#ffffff",
-        "button_bg_color": "#282828",
-        "button_bg_hover_color": "#232323",
-        "button_border_color": "#ffffff",
-        "button_border_hover_color": "#ffffff",
-        "arrow_color": "#ffffff",
-        "arrow_hover_color": "#000000",
-        "arrow_bg_color": "#232323",
-        "arrow_bg_hover_color": "#ffffff",
-        "arrow_border_color": "#000000",
-        "arrow_border_hover_color": "#000000",
-        "dots_color": "#ffffff",
-        "pagination_color": "#ffffff",
-        "overlay_color": "#000000",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 24,
-        "margin_horizontal": 0,
-        "margin_horizontal_mobile": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0,
-        "section_radius": 0,
-        "lazy": true
-      }
-    },
-    "press_UD3tdn": {
-      "type": "press",
-      "blocks": {
-        "item_gxHVF6": {
-          "type": "item",
-          "settings": {
-            "logo": "shopify://shop_images/png-clipart-forbes-logo-marketing-business-company-magazine-company-text.png",
-            "logo_width": 100,
-            "content": "From its handcrafted hematite stones to its bold design, VAYNITE reflects the modern man’s mindset, a symbol of strength, focus, and understated confidence."
-          }
-        },
-        "item_JcPrHH": {
-          "type": "item",
-          "settings": {
-            "logo": "shopify://shop_images/mens-health-logo-png_seeklogo-221955.png",
-            "logo_width": 100,
-            "content": "VAYNITE isn’t just jewelry, it’s a statement. A perfect balance of masculine elegance and bold character. A piece that feels instantly empowering through its design and presence."
-          }
-        },
-        "item_gVRb4F": {
-          "type": "item",
-          "settings": {
-            "logo": "shopify://shop_images/gq-logo-black-and-white.png",
-            "logo_width": 60,
-            "content": "Minimalist, refined, and masterfully crafted, VAYNITE redefines what a men’s bracelet can be. Where timeless design meets intention and presence."
-          }
-        }
-      },
-      "block_order": [
-        "item_gxHVF6",
-        "item_JcPrHH",
-        "item_gVRb4F"
-      ],
-      "custom_css": [
-        ".press-list__item-content {font-weight: 1; font-family: \"poppins\"; text-transform: none; font-size: 23px;}"
-      ],
-      "name": "Press",
-      "settings": {
-        "reveal_on_scroll": true,
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "featured_collections_rTW3qe": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_GcUCqK": {
-          "type": "collection",
-          "settings": {
-            "collection": "bracelets",
-            "label": "",
-            "button_text": "",
-            "button_url": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_GcUCqK"
-      ],
-      "name": "Featured collections",
-      "settings": {
-        "subheading": "Your title",
-        "title": "Our collection",
-        "content": "",
-        "products_count": 6,
-        "products_per_row": 4,
-        "stack_products": false,
-        "show_cta": false,
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "ss_featured_collection_r4jjq8": {
-      "type": "ss-featured-collection",
-      "name": "SS - Featured Collection",
-      "settings": {
-        "items_mt": 40,
-        "collection": "rings",
-        "product_list": [],
-        "stack_products": false,
-        "show_bar": false,
-        "top_bar": false,
-        "product_show": 10,
-        "product_per_desktop": 4,
-        "product_per_mobile": "2",
-        "image_radius": 12,
-        "image_ration": "square",
-        "use_custom_height": false,
-        "image_height_desktop": 400,
-        "image_height_mobile": 200,
-        "show_second": true,
-        "use_shadow": false,
-        "shadow_width": 0,
-        "card_padding_horizontal": 4,
-        "card_padding_vertical": 16,
-        "card_title_custom": false,
-        "card_title_font": "assistant_n4",
-        "card_title_size": 24,
-        "card_title_letter": 0,
-        "card_title_height": 100,
-        "heading": "Featured collection",
-        "heading_custom": false,
-        "heading_font": "assistant_n4",
-        "heading_size": 50,
-        "heading_letter": 0,
-        "heading_height": 100,
-        "heading_align": "center",
-        "sub_heading": "",
-        "sub_heading_custom": false,
-        "sub_heading_font": "assistant_n4",
-        "sub_heading_size": 50,
-        "sub_heading_letter": 0,
-        "sub_heading_height": 100,
-        "sub_heading_align": "center",
-        "invert_content": false,
-        "link": "View all",
-        "link_url": "",
-        "link_custom": false,
-        "link_font": "assistant_n4",
-        "link_size": 18,
-        "link_letter": 0,
-        "link_height": 100,
-        "link_position": false,
-        "card_price_custom": false,
-        "card_price_font": "assistant_n4",
-        "card_price_size": 16,
-        "card_price_letter": 0,
-        "card_price_height": 100,
-        "card_price_mt": 12,
-        "heading_color": "#000000",
-        "sub_heading_color": "#000000",
-        "link_color": "#000000",
-        "link_hover_color": "#000000",
-        "link_arrow_color": "#000000",
-        "link_background_color": "#e6e6e6",
-        "link_background_hover_color": "#000000",
-        "card_title_color": "#000000",
-        "card_price_color": "#000000",
-        "arrow_color": "#000000",
-        "arrow_hover_color": "#000000",
-        "arrow_bg_color": "#ffffff",
-        "arrow_bg_hover_color": "#ffffff",
-        "arrow_border_color": "#000000",
-        "arrow_border_hover_color": "#000000",
-        "progress_color": "#000000",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_horizontal": 5,
-        "padding_horizontal_mobile": 1.5,
-        "content_width": 120,
-        "border_thickness": 0
-      }
-    },
-    "ss_testimonial_16_PCCaQF": {
-      "type": "ss-testimonial-16",
-      "blocks": {
-        "item_Fhr9ak": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it !! 😍",
-            "text": "Honestly, I was skeptical at first. I don’t usually wear accessories, and I wasn’t sure a bracelet would suit me. But after wearing the VAYNITE hematite bracelet for a week, I was genuinely surprised by how clean and refined my style looked. People started complimenting it, even at work. Now it’s just part of my everyday outfit, simple, masculine, and easy to wear.",
-            "author_date": "James, Sept 2025",
-            "author_image": "shopify://shop_images/portrait-of-male-model.jpg"
-          }
-        },
-        "item_NqJFiD": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I highly recommend 👌",
-            "text": "I originally ordered it just for the look, but it ended up becoming one of my favorite accessories. At first, I thought it would be like any other bracelet, but people immediately started noticing it, especially my clients at the gym. It has this clean, strong aesthetic that really stands out without trying too hard. Definitely more than just a simple accessory.",
-            "author_date": "Ryan, July 2025",
-            "author_image": "shopify://shop_images/dapper-man-in-patterned-dress-shirt.jpg"
-          }
-        },
-        "item_N6Aa78": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "A real difference !",
-            "text": "I saw Vaynite online and assumed it was just another men’s bracelet brand. I hesitated for a few days before ordering, but when it arrived, the packaging alone felt incredibly sleek and premium. After wearing it for a bit, I realized how much it elevates my outfits, it’s the kind of piece you end up reaching for every day without even thinking about it. Stylish, clean, and honestly worth it. Highly recommend!",
-            "author_date": "Alex, Oct 2025",
-            "author_image": "shopify://shop_images/bearded-man-in-sun-and-shadow.jpg"
-          }
-        },
-        "item_DJi9Xk": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I really like it !",
-            "text": "I really like it. Most bead bracelets feel a bit small or uneven, but this one fits perfectly, and the flat beads are way more comfortable than the usual round ones. It genuinely feels like a solid everyday piece I’ll be wearing for a long time.",
-            "author_date": "Douglas, Aug 2025",
-            "author_image": "shopify://shop_images/portrait-young-man-smiling.jpg"
-          }
-        },
-        "item_YQBLNL": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "Fabulous",
-            "text": "I wore it to a recent meeting and ended up getting a surprising number of compliments on it. It has a clean, professional look that really stands out without being flashy. Definitely a piece that fits well in a work environment.",
-            "author_date": "Hector, Nov 2025",
-            "author_image": "shopify://shop_images/dark-haired-man-in-brown-leather-jacket.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "item_Fhr9ak",
-        "item_NqJFiD",
-        "item_N6Aa78",
-        "item_DJi9Xk",
-        "item_YQBLNL"
-      ],
-      "name": "SS - Testimonial #16",
-      "settings": {
-        "content_align": "center",
-        "content_align_mobile": "center",
-        "heading": "They love us, don't miss out !",
-        "heading_custom": true,
-        "heading_font": "poppins_n6",
-        "heading_size": 36,
-        "heading_size_mobile": 22,
-        "heading_height": 130,
-        "rating_text": "Based on +2000 reviews",
-        "rating_text_custom": false,
-        "rating_text_font": "josefin_sans_n4",
-        "rating_text_size": 16,
-        "rating_text_size_mobile": 12,
-        "rating_text_height": 130,
-        "rating_text_mt": 16,
-        "rating_text_mt_mobile": 16,
-        "rating": 4.7,
-        "rating_hide": false,
-        "rating_text_hide": false,
-        "stars_count": 5,
-        "stars_size": 14,
-        "stars_size_mobile": 16,
-        "text": "<h3>Sample customer feedback for display purposes</h3><p></p>",
-        "text_custom": true,
-        "text_font": "poppins_n4",
-        "text_size": 12,
-        "text_size_mobile": 10,
-        "text_height": 70,
-        "text_mt": 20,
-        "text_mt_mobile": 16,
-        "scrolling_velocity": 80,
-        "scrolling_velocity_mobile": 100,
-        "reverse_direction": false,
-        "pause_hover": false,
-        "scrolling_mt": 36,
-        "scrolling_mt_mobile": 36,
-        "scrolling_gap": 20,
-        "scrolling_gap_mobile": 20,
-        "card_width": 360,
-        "card_width_mobile": 280,
-        "card_padding_vertical": 36,
-        "card_padding_vertical_mobile": 28,
-        "card_padding_horizontal": 40,
-        "card_padding_horizontal_mobile": 24,
-        "card_radius": 16,
-        "card_border_thickness": 0,
-        "card_shadow_style": "1",
-        "card_content_align": "left",
-        "card_content_align_mobile": "center",
-        "card_height": true,
-        "card_heading_custom": false,
-        "card_heading_font": "josefin_sans_n4",
-        "card_heading_size": 24,
-        "card_heading_size_mobile": 20,
-        "card_heading_height": 130,
-        "card_heading_mt": 16,
-        "card_heading_mt_mobile": 16,
-        "card_text_custom": true,
-        "card_text_font": "poppins_n3",
-        "card_text_size": 14,
-        "card_text_size_mobile": 14,
-        "card_text_height": 150,
-        "card_text_mt": 16,
-        "card_text_mt_mobile": 16,
-        "card_text_more": "View More",
-        "card_text_less": "View Less",
-        "card_count_words": 60,
-        "author_image_size": 50,
-        "author_image_size_mobile": 40,
-        "author_image_position": "inline_text",
-        "card_author_date_text_custom": true,
-        "card_author_date_text_font": "poppins_i3",
-        "card_author_date_text_size": 14,
-        "card_author_date_text_size_mobile": 16,
-        "card_author_date_text_height": 130,
-        "card_author_date_text_mt": 16,
-        "card_author_date_text_mt_mobile": 16,
-        "button": "",
-        "button_url": "",
-        "button_custom": false,
-        "button_font": "josefin_sans_n4",
-        "button_size": 16,
-        "button_size_mobile": 14,
-        "button_height": 100,
-        "button_align": "center",
-        "button_align_mobile": "center",
-        "button_mt": 32,
-        "button_mt_mobile": 28,
-        "button_padding_vertical": 16,
-        "button_padding_vertical_mobile": 16,
-        "button_padding_horizontal": 20,
-        "button_padding_horizontal_mobile": 20,
-        "button_radius": 8,
-        "button_border_thickness": 1,
-        "button_style": "outline",
-        "button_color": "#000000",
-        "button_hover_color": "#000000",
-        "button_bg_color": "#000000",
-        "button_bg_hover_color": "#ffffff",
-        "button_border_color": "#000000",
-        "button_border_hover_color": "#000000",
-        "card_bg_color": "#ffffff",
-        "card_border_color": "#000000",
-        "card_heading_color": "#000000",
-        "card_text_color": "#000000",
-        "card_author_date_text_color": "#000000",
-        "view_color": "#000000",
-        "heading_color": "#282828",
-        "rating_text_color": "#000000",
-        "stars_bg_color": "#00b67a",
-        "stars_color": "#ffffff",
-        "text_color": "#000000",
-        "background_color": "#ffffff",
-        "background_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 1) 11%, rgba(246, 164, 41, 1) 50%, rgba(255, 255, 255, 1) 99%)",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "padding_horizontal": 5,
-        "padding_horizontal_mobile": 1.5,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
-    "rich_text_jJAbyH": {
-      "type": "rich-text",
-      "custom_css": [],
-      "name": "Rich text",
-      "settings": {
-        "subheading": "FEEL LIKE YOURSELF AGAIN",
-        "title": "our mission",
-        "content": "<p>Our mission is to create timeless accessories that inspire confidence, intention, and discipline in the modern man.</p><p>In a world that moves faster every day, VAYNITE stands for simplicity, focus, and authenticity, values every man chooses and builds within himself.</p><p>Crafted from natural hematite with minimalist precision, each piece is designed to complement your style and reflect the mindset you strive for: presence, discipline, and strong character.</p>",
-        "button_text": "",
-        "button_link": "",
-        "background_type": "boxed",
-        "text_width": "large",
-        "text_position": "center",
-        "text_alignment": "center",
-        "background": "#ffffff",
-        "text_color": "#282828",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "ss_wave_2_aM97py": {
-      "type": "ss-wave-2",
-      "name": "SS - Wave #2",
-      "settings": {
-        "wave_height": 100,
-        "wave_height_mobile": 60,
-        "wave_animation": true,
-        "wave_rotate": false,
-        "wave_color": "#000000",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0
-      }
-    },
-    "ss_feature_13_fqLTCY": {
-      "type": "ss-feature-13",
-      "blocks": {
-        "feature_ENE6kj": {
-          "type": "feature",
-          "settings": {
-            "image": "shopify://shop_images/strength.png",
-            "icon": "heart",
-            "title": "symbol of discipline",
-            "text": "Hematite has been appreciated for centuries as a natural, durable stone. Wearing it can reflects the values of intention, structure, and commitment "
-          }
-        },
-        "feature_6zpgxN": {
-          "type": "feature",
-          "settings": {
-            "image": "shopify://shop_images/group.png",
-            "icon": "time",
-            "title": "strong presence",
-            "text": "The solid, weighty craftsmanship gives the bracelet a strong presence on the wrist, elevating your look with subtle confidence."
-          }
-        },
-        "feature_Gtkgpd": {
-          "type": "feature",
-          "settings": {
-            "image": "shopify://shop_images/shield.png",
-            "icon": "gift",
-            "title": "everyday durability",
-            "text": "Crafted from natural hematite and built to last, each bead is designed for daily wear, maintaining its look and structure over time."
-          }
-        },
-        "feature_WNdaHh": {
-          "type": "feature",
-          "settings": {
-            "image": "shopify://shop_images/fire.png",
-            "icon": "plant",
-            "title": "Refined  Craftsmanship",
-            "text": "Designed with clean, minimalist lines, VAYNITE complements a lifestyle centered on intention, self-discipline, and refined style."
-          }
-        }
-      },
-      "block_order": [
-        "feature_ENE6kj",
-        "feature_6zpgxN",
-        "feature_Gtkgpd",
-        "feature_WNdaHh"
-      ],
-      "disabled": true,
-      "name": "SS - Feature #13",
-      "settings": {
-        "heading": "<h2>THE CHARACTER OF HEMATITE</h2>",
-        "heading_custom": true,
-        "heading_font": "tomorrow_n7",
-        "heading_size": 38,
-        "heading_size_mobile": 24,
-        "heading_height": 130,
-        "heading_align": "center",
-        "heading_align_mobile": "center",
-        "body_gap": 50,
-        "items_gap": 70,
-        "items_gap_mobile": 30,
-        "items_mt": 72,
-        "items_mt_mobile": 22,
-        "image": "shopify://shop_images/HematiteBracelets1.webp",
-        "image_position": "center",
-        "image_position_mobile": "first",
-        "image_ratio": "square",
-        "image_ratio_mobile": "square",
-        "image_radius": 4,
-        "image_border_thickness": 0,
-        "content_align": "center",
-        "content_align_mobile": "center",
-        "icon_size": 34,
-        "icon_size_mobile": 32,
-        "title_custom": true,
-        "title_font": "tomorrow_n5",
-        "title_size": 20,
-        "title_size_mobile": 14,
-        "title_height": 130,
-        "title_uppercase": true,
-        "title_mt": 16,
-        "title_mt_mobile": 8,
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 16,
-        "text_size_mobile": 12,
-        "text_height": 150,
-        "text_mt": 10,
-        "text_mt_mobile": 6,
-        "text_hide_mobile": false,
-        "button": "CLAIM YOUR BRACELET",
-        "button_url": "shopify://products/vaynite-hematite-bracelet",
-        "button_style": "non_outline_arrow",
-        "button_custom": false,
-        "button_font": "josefin_sans_n4",
-        "button_size": 16,
-        "button_size_mobile": 16,
-        "button_height": 100,
-        "button_width": 200,
-        "button_width_mobile": 200,
-        "button_padding_vertical": 16,
-        "button_padding_vertical_mobile": 16,
-        "button_padding_horizontal": 24,
-        "button_padding_horizontal_mobile": 24,
-        "button_radius": 100,
-        "button_border_thickness": 1,
-        "button_align": "center",
-        "button_align_mobile": "center",
-        "button_position": "bottom",
-        "button_mt": 16,
-        "button_mt_mobile": 16,
-        "button_color": "#282828",
-        "button_hover_color": "#ffffff",
-        "button_bg_color": "#f6a429",
-        "button_bg_hover_color": "#121212",
-        "button_border_color": "#121212",
-        "button_border_hover_color": "#121212",
-        "icon_color": "#131313",
-        "title_color": "#131313",
-        "text_color": "#131313",
-        "heading_color": "#131313",
-        "image_border_color": "#121212",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#121212",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "margin_horizontal": 0,
-        "margin_horizontal_mobile": 0,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_horizontal": 5,
-        "padding_horizontal_mobile": 1.5,
-        "full_width": false,
-        "content_width": 1500,
-        "section_radius": 0,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
-    "image-with-text": {
-      "type": "image-with-text",
-      "blocks": {
-        "item-1": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/HematiteBracelets1.webp",
-            "tab_label": "Text 1",
-            "subheading": "★★★★★ 4,7/5 Based on +2000 Reviews",
-            "title": "vaynite  hematite bracelet",
-            "content": "<h5>💪 Boost Testosterone Naturally</h5><h5>🔥 Support Healthy Metabolism</h5><h5> ♂︎ Restore Confidence & Libido</h5><h5>‎🧠 Improve Mental Focus‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎</h5>",
-            "button_text": "Claim your bracelet →",
-            "button_link": "shopify://products/vaynite-hematite-bracelet"
-          }
-        }
-      },
-      "block_order": [
-        "item-1"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".h3 {font-size: 25px;}",
-        ".image-with-text__content-wrapper {font-size: 20px;}"
-      ],
-      "settings": {
-        "reveal_on_scroll": true,
-        "background_type": "boxed",
-        "background_overlap": "image",
-        "image_position": "left",
-        "text_alignment": "left",
-        "cycle_speed": 8,
-        "accent_background": "#ffffff",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "rich_text_xVFihH": {
-      "type": "rich-text",
-      "custom_css": [],
-      "name": "Rich text",
-      "settings": {
-        "subheading": "the roots",
-        "title": "our story",
-        "content": "<p>Throughout history, men have chosen meaningful objects to represent who they were and what they stood for, symbols of strength, discipline, and determination.</p><p>Hematite has been appreciated for centuries for its bold appearance and solid presence. At VAYNITE, we carry that heritage forward by crafting pieces that match the values modern men choose to live by: intention, discipline, and grounded confidence.</p><p>No myths. No superstition. Just design with purpose.</p>",
-        "button_text": "",
-        "button_link": "",
-        "background_type": "full_width",
-        "text_width": "large",
-        "text_position": "center",
-        "text_alignment": "center",
-        "background": "#f8bb5d",
-        "text_color": "#282828",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "image_with_text_cPbQkr": {
-      "type": "image-with-text",
-      "blocks": {
-        "item_gKf9d3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/story.webp",
-            "tab_label": "Item",
-            "subheading": "the",
-            "title": "essence of hematite",
-            "content": "<p>Forged deep within the Earth, hematite is one of nature’s most distinctive and enduring stones. Admired for centuries for its bold appearance and iron-rich composition, it carries a timeless aesthetic rooted in strength and solidity.</p><p>Across different cultures, men appreciated hematite not for superstition, but for what it symbolized: resilience, discipline, and unwavering character.</p><p>At VAYNITE, we continue that heritage with a modern vision, shaping hematite into a refined expression of intention, discipline, and confident style.</p><p>Each bead reflects centuries of appreciation for natural craftsmanship, a reminder that true strength comes from the values we choose and the character we build every day.</p>",
-            "button_text": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_gKf9d3"
-      ],
-      "custom_css": [
-        ".text-container {text-align: left;}",
-        "@media screen and (max-width: 768px) {.text-container {text-align: center; }}"
-      ],
-      "name": "Image with text",
-      "settings": {
-        "reveal_on_scroll": true,
-        "background_type": "full_width",
-        "background_overlap": "text",
-        "image_position": "left",
-        "text_alignment": "left",
-        "cycle_speed": 8,
-        "accent_background": "#121212",
-        "text_color": "#ffffff",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "image-with-text-block": {
-      "type": "image-with-text-block",
-      "custom_css": [
-        "h3 {font-size: 25px;}"
-      ],
-      "settings": {
-        "reveal_on_scroll": true,
-        "image": "shopify://shop_images/banner.png",
-        "subheading": "",
-        "title": "30-days confidence guarantee",
-        "content": "<p>Give VAYNITE 30 days, wear it at work, at the gym, and throughout your daily routine. Take the time to experience its craftsmanship, its comfort, and how naturally it fits into your personal style.</p><p>If after 30 days it doesn’t feel right for you, we’ll refund you in full.</p><p>No questions. No hassle.</p><p>Just a risk-free way to experience VAYNITE for yourself.</p>",
-        "button_text": "claim my bracelet",
-        "button_link": "shopify://products/vaynite-hematite-bracelet",
-        "background_type": "full_width",
-        "text_position": "overlap_left",
-        "text_alignment": "left",
-        "text_background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "faq_UEWNfr": {
-      "type": "faq",
-      "blocks": {
-        "category_BRhn4T": {
-          "type": "category",
-          "settings": {
-            "title": "bracelet"
-          }
-        },
-        "question_dbKgUE": {
-          "type": "question",
-          "settings": {
-            "title": "Is the bracelet adjustable or one-size-fits-all?",
-            "answer": "<p>Yes, each bracelet uses a <strong>high-quality elastic cord</strong> that comfortably adapts to most wrist sizes.</p><p>It fits snugly without feeling tight, ensuring a perfect balance between comfort and premium look.</p>"
-          }
-        },
-        "question_UDNdYM": {
-          "type": "question",
-          "settings": {
-            "title": "Is it waterproof ?",
-            "answer": "<p>Yes, the VAYNITE bracelet can handle <strong>occasional water exposure</strong>, like washing hands or light rain. However, for maximum longevity, we recommend <strong>avoiding prolonged contact</strong> with water or chemicals (e.g., pool chlorine, soap, perfume).</p>"
-          }
-        },
-        "question_aRiwyA": {
-          "type": "question",
-          "settings": {
-            "title": "Can I wear Vaynite every day ?",
-            "answer": "<p>Absolutely.</p><p>The VAYNITE bracelet is designed for <strong>daily wear</strong>, whether you’re at work, at the gym, or out at night. Its <strong>elastic fit and durable build</strong> make it comfortable and resistant to everyday use, so you never have to take it off.</p>"
-          }
-        },
-        "category_DqW7yj": {
-          "type": "category",
-          "settings": {
-            "title": "results"
-          }
-        },
-        "question_cRct86": {
-          "type": "question",
-          "settings": {
-            "title": "What makes the Vaynite Hematite Bracelet different from others?",
-            "answer": "<p>Every VAYNITE bracelet is crafted from genuine, natural hematite and assembled by hand with exceptional attention to detail. </p><p>Unlike mass-produced jewelry, each piece is designed to reflect a bold, minimalist aesthetic and a modern masculine mindset combining durability, character, and refined style.</p>"
-          }
-        },
-        "question_hFDwNU": {
-          "type": "question",
-          "settings": {
-            "title": "How fast will I fell results ?",
-            "answer": "<p>There are no “<strong>results</strong>” you’re required to feel, VAYNITE isn’t designed to <strong>change your energy or mindset.</strong></p><p>What most men notice over time is how naturally the bracelet becomes part of their daily routine and personal style. Some appreciate the solid feel of hematite, others like the reminder of discipline and intention it represents.</p><p><br/>Everyone experiences it differently. And if after 30 days you simply don’t connect with it, just email us at contact@vaynite.com for a full refund — no hassle, no questions.<br/><br/><br/></p>"
-          }
-        },
-        "question_Ja4Rrp": {
-          "type": "question",
-          "settings": {
-            "title": "Does hematite really have energetic or magnetic benefits?",
-            "answer": "<p>Hematite is a naturally occurring iron-rich stone, and some varieties can show mild magnetic properties, but it is not a source of energetic or spiritual benefits.</p><p>Any sensations or experiences people report while wearing hematite come from its weight, texture, and personal meaning, not from any hidden forces or energies.</p><p><br/>At VAYNITE, we value hematite for its bold appearance, durability, and the sense of presence it represents, not for supernatural or medical effects.<br/><br/><br/></p>"
-          }
-        },
-        "category_NFYrXQ": {
-          "type": "category",
-          "settings": {
-            "title": "Shipping & delivery"
-          }
-        },
-        "question_XUdAqg": {
-          "type": "question",
-          "settings": {
-            "title": "How does the delivery process work ?",
-            "answer": "<p>Once the order approved, we start packaging this bracelet. Each order is carefully packed in a <strong>matte black VAYNITE </strong>box and comes with tracking so you can follow your shipment at every step.</p>"
-          }
-        },
-        "question_grAcKt": {
-          "type": "question",
-          "settings": {
-            "title": "How long will it take to get my bracelet ?",
-            "answer": "<p>For the U.S. and Europe, average delivery is <strong>5–8 business days</strong>, depending on destination.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "category_BRhn4T",
-        "question_dbKgUE",
-        "question_UDNdYM",
-        "question_aRiwyA",
-        "category_DqW7yj",
-        "question_cRct86",
-        "question_hFDwNU",
-        "question_Ja4Rrp",
-        "category_NFYrXQ",
-        "question_XUdAqg",
-        "question_grAcKt"
-      ],
-      "disabled": true,
-      "name": "FAQ",
-      "settings": {
-        "show_navigation": true,
-        "title": "Questions about vaynite ?",
-        "content": "<p>Everything you need to know is listed down below :</p>",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "text-with-icons": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item-1": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-fast-delivery",
-            "custom_icon_width": 50,
-            "title": "Fast shipping",
-            "content": "<p>Tracked worlwide delivery with careful packaging process </p>"
-          }
-        },
-        "item-2": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-warranty",
-            "custom_icon_width": 50,
-            "title": "premium quality",
-            "content": "<p>Handcrafted with precision and delivered in a premium packaging</p>"
-          }
-        },
-        "item-4": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-love",
-            "custom_icon_width": 50,
-            "title": "Refund garantee",
-            "content": "<p>Not satisfied with your purchase? Get your money back, no questions asked.</p>"
-          }
-        },
-        "item-3": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-lock",
-            "custom_icon_width": 50,
-            "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item-1",
-        "item-2",
-        "item-4",
-        "item-3"
-      ],
-      "settings": {
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
-    },
     "newsletter": {
       "type": "newsletter",
+      "disabled": true,
       "settings": {
         "reveal_on_scroll": true,
-        "image": "shopify://shop_images/banner2.png",
         "subheading": "UNLOCK 10% OFF YOUR FIRST ORDER",
         "content": "<p>Join the Vaynite Legacy with exclusive offers and discounts</p>",
         "text_position": "right",
@@ -963,23 +23,258 @@
         "button_background": "#f6a429",
         "button_text_color": "#282828"
       }
+    },
+    "ss_comparison_table_6_tpkTwe": {
+      "type": "ss-comparison-table-6",
+      "blocks": {
+        "list_item_ztNdQW": {
+          "type": "list_item",
+          "settings": {
+            "text": "Fall asleep quicker"
+          }
+        },
+        "list_item_zimHkW": {
+          "type": "list_item",
+          "settings": {
+            "text": "Relax & Restorative sleep"
+          }
+        },
+        "list_item_QNNTDa": {
+          "type": "list_item",
+          "settings": {
+            "text": "Wake up refreshed"
+          }
+        },
+        "list_item_TTpNKi": {
+          "type": "list_item",
+          "settings": {
+            "text": "Plant based"
+          }
+        },
+        "table_row_8GBNk3": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Optimized Dosing",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_TETamF": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Plant Based",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_jPKjNK": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Low Sugar",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_hzyTQm": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Simple Ingredients",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_TwVPh8": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "3rd Party Tested",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_PDhJyE": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Delicious Taste",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "list_item_ztNdQW",
+        "list_item_zimHkW",
+        "list_item_QNNTDa",
+        "list_item_TTpNKi",
+        "table_row_8GBNk3",
+        "table_row_TETamF",
+        "table_row_jPKjNK",
+        "table_row_hzyTQm",
+        "table_row_TwVPh8",
+        "table_row_PDhJyE"
+      ],
+      "name": "SS - Comparison Table #6",
+      "settings": {
+        "body_gap": 32,
+        "body_gap_mobile": 32,
+        "content_horizontal_align": "start",
+        "content_horizontal_align_mobile": "center",
+        "heading": "<p><em>US</em> <strong>vs Other Brands</strong></p>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 52,
+        "heading_size_mobile": 32,
+        "heading_height": 150,
+        "text": "<p>We pride ourselves in our quality and focus on sleep, we cannot say the same for others.</p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 18,
+        "text_size_mobile": 18,
+        "text_height": 150,
+        "text_mt": 4,
+        "list_mt": 50,
+        "list_mt_mobile": 32,
+        "list_gap": 30,
+        "list_gap_mobile": 30,
+        "list_hide_mobile": true,
+        "icon_size": 28,
+        "icon_size_mobile": 28,
+        "icon_margin_right": 16,
+        "list_text_custom": false,
+        "list_text_font": "josefin_sans_n4",
+        "list_text_size": 20,
+        "list_text_size_mobile": 18,
+        "list_text_height": 150,
+        "button": "TRY DEEP DREAMS",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 18,
+        "button_size_mobile": 18,
+        "button_height": 100,
+        "button_width": 305,
+        "button_mt": 50,
+        "button_mt_mobile": 32,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 48,
+        "button_padding_horizontal_mobile": 48,
+        "button_radius": 100,
+        "button_border_thickness": 0,
+        "button_style": "non_outline",
+        "button_position_mobile": "bottom",
+        "table_columns": 2,
+        "table_mt_mobile": 32,
+        "table_column_active": "1",
+        "table_radius": 16,
+        "table_border_thickness": 1,
+        "table_heading_image_size": 100,
+        "table_heading_image_size_mobile": 80,
+        "first_heading": "SECTION STORE",
+        "second_heading": "Other Brands",
+        "third_heading": "Third",
+        "four_heading": "Fourth",
+        "table_heading_custom": false,
+        "table_heading_font": "assistant_n4",
+        "table_heading_size": 20,
+        "table_heading_size_mobile": 16,
+        "table_heading_height": 100,
+        "table_heading_align": "center",
+        "table_heading_padding_horizontal": 18,
+        "table_heading_padding_horizontal_mobile": 18,
+        "table_heading_padding_vertical": 18,
+        "table_heading_padding_vertical_mobile": 18,
+        "table_row_padding_horizontal": 14,
+        "table_row_padding_horizontal_mobile": 14,
+        "table_row_padding_vertical": 16,
+        "table_row_padding_vertical_mobile": 16,
+        "table_row_heading_width_mobile": 66,
+        "table_row_heading_custom": false,
+        "table_row_heading_font": "assistant_n4",
+        "table_row_heading_size": 16,
+        "table_row_heading_size_mobile": 16,
+        "table_row_heading_height": 130,
+        "table_row_heading_align": "left",
+        "table_row_text_custom": false,
+        "table_row_text_font": "assistant_n4",
+        "table_row_text_size": 20,
+        "table_row_text_size_mobile": 16,
+        "table_row_text_height": 130,
+        "table_row_text_align": "center",
+        "table_row_image_size": 24,
+        "table_row_image_size_mobile": 24,
+        "heading_color": "#000000",
+        "text_color": "#000000",
+        "icon_color": "#000000",
+        "list_text_color": "#000000",
+        "button_color": "#FFFFFF",
+        "button_hover_color": "#dad0ff",
+        "button_bg_color": "#16142B",
+        "button_bg_hover_color": "#16142B",
+        "button_border_color": "#16142B",
+        "button_border_hover_color": "#16142B",
+        "table_border_color": "#2D2B43",
+        "table_active_border_color": "#DAD0FF",
+        "table_heading_color": "#1A192E",
+        "table_heading_active_color": "#FFFFFF",
+        "table_heading_bg_active_color": "#2D2B43",
+        "table_column_active_bg_color": "#2D2B43",
+        "table_row_heading_color": "#1A192E",
+        "table_row_text_color": "#1A192E",
+        "table_row_active_text_color": "#FFFFFF",
+        "background_color": "#F6F3FF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 130,
+        "border_thickness": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
-    "ss_slideshow_7_Ka7r3A",
-    "press_UD3tdn",
-    "featured_collections_rTW3qe",
-    "ss_featured_collection_r4jjq8",
-    "ss_testimonial_16_PCCaQF",
-    "rich_text_jJAbyH",
-    "ss_wave_2_aM97py",
-    "ss_feature_13_fqLTCY",
-    "image-with-text",
-    "rich_text_xVFihH",
-    "image_with_text_cPbQkr",
-    "image-with-text-block",
-    "faq_UEWNfr",
-    "text-with-icons",
-    "newsletter"
+    "newsletter",
+    "ss_comparison_table_6_tpkTwe"
   ]
 }
